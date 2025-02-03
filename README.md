@@ -1,4 +1,6 @@
-## MSc Computer Science student. Slowly making the right steps towards my long-term career goals.
+## MSc Computer Science student.
+
+Slowly making the right steps towards my long-term career goals.
 
 - 📫: joesambristow@gmail.com
 
