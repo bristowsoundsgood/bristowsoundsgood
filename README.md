@@ -1,18 +1,20 @@
-# 👋 MSc Computer Science 
+# 👋 MSc Computer Science  
 ---
 
-## 🛠️ Ongoing Projects
+## 🛠️ **Ongoing Projects**  
 
-### 🎶 **Grunt Work**
-A tool designed for music producers who want to quickly find vocal samples.
---
+### 🎶 **Grunt Work**  
+A tool designed for music producers to quickly find vocal samples.  
+
 🔍 **What it does:**  
-- Scrapes discogs.com for a list of acapellas available under specified search filters.
+- Scrapes **discogs.com** for a list of acapellas under specified search filters.  
 
 ---
-## 📫: joesambristow@gmail.com
----
 
+## 📫 **Contact**  
+📧 **Email:** [joesambristow@gmail.com](mailto:joesambristow@gmail.com)  
+
+---
 
 <!--
 **bristowsoundsgood/bristowsoundsgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
