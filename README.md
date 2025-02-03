@@ -1,8 +1,19 @@
-## MSc Computer Science student.
+# 👋 Hi, I'm Joe
 
-Slowly making the right steps towards my long-term career goals.
+🎓 **MSc Computer Science Student**  
+---
 
-- 📫: joesambristow@gmail.com
+## 🛠️ Ongoing Projects
+
+### 🎶 **Grunt Work**
+A tool designed for music producers who want to quickly find vocal samples.
+🔍 **What it does:**  
+- Scrapes discogs.com for a list of acapellas available under specified search filters.
+
+---
+## 📫: joesambristow@gmail.com
+---
+
 
 <!--
 **bristowsoundsgood/bristowsoundsgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
