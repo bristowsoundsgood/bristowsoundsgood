@@ -1,4 +1,6 @@
-## Hi there 👋
+## MSc Computer Science student. Slowly making the right steps towards my long-term career goals.
+
+- 📫: joesambristow@gmail.com
 
 <!--
 **bristowsoundsgood/bristowsoundsgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
