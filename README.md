@@ -1,12 +1,11 @@
-# 👋 Hi, I'm Joe
-
-🎓 **MSc Computer Science Student**  
+# 👋 MSc Computer Science 
 ---
 
 ## 🛠️ Ongoing Projects
 
 ### 🎶 **Grunt Work**
 A tool designed for music producers who want to quickly find vocal samples.
+--
 🔍 **What it does:**  
 - Scrapes discogs.com for a list of acapellas available under specified search filters.
 
