@@ -1,5 +1,6 @@
 # 👋 MSc Computer Science  
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bristowsoundsgood&layout=compact)
 
 ## 🛠️ **Ongoing Projects**  
 
