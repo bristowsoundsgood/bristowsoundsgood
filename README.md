@@ -4,11 +4,7 @@
 ## 🛠️ **Ongoing Projects**  
 
 ### 🎶 **Grunt Work**  
-A tool designed for music producers to quickly find vocal samples.  
-
-🔍 **What it does:**  
-- Scrapes **discogs.com** for a list of acapellas under specified search filters.  
-
+A tool designed for music producers to quickly find clean vocal samples. Scrapes **discogs.com** for a list of acapellas that satisfy specified search filters. 
 ---
 
 ## 📫 **Contact**  
