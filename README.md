@@ -1,6 +1,8 @@
 # 👋 MSc Computer Science  
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bristowsoundsgood&layout=compact)
+
 ## 🛠️ **Ongoing Projects**  
 
 ### 🎶 **Grunt Work** - A basic tool designed for music producers to automate the search for clean vocal samples. Scrapes **discogs.com** for a list of acapellas that satisfy specified search filters. 
@@ -12,7 +14,6 @@
 ---
 
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bristowsoundsgood&layout=compact)
 
 **bristowsoundsgood/bristowsoundsgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
