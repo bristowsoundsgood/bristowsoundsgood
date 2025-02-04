@@ -3,7 +3,7 @@
 
 ## 🛠️ **Ongoing Projects**  
 
-### 🎶 **Grunt Work** - A basic tool designed for music producers to automate the search for clean vocal samples. Scrapes **discogs.com** for a list of acapellas that satisfy specified search filters. 
+### 🎶 **Grunt Work** - A basic tool designed for music producers to automate the search for clean vocal samples. Uses the **discogs.com** API, returning a list of acapellas that satisfy specified search filters. 
 ---
 
 ## 📫 **Contact**  
