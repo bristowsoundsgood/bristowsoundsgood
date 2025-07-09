@@ -1,9 +1,7 @@
-# 👋 MSc Computer Science  
----
-
 ## 🛠️ **Ongoing Projects**  
 
-### 🎶 **Grunt Work** - A basic tool designed for music producers to automate the search for clean vocal samples. Uses the **discogs.com** API, returning a list of acapellas that satisfy specified search filters. 
+### **GruntWork Pella** - A basic tool designed for music producers to automate the search for clean vocal samples. Uses the **discogs.com** API, returning a list of acapellas that satisfy specified search filters. (C++)
+### **GruntWork GoodBits** - Audio summarisation tool. Extracts radio chatter from DJ mixes. (C++)  
 ---
 
 ## 📫 **Contact**  
