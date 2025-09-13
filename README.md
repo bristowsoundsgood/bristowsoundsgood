@@ -1,6 +1,6 @@
 ## 🛠️ **Ongoing Projects**  
 
-### **GruntWork Pella** - A basic tool designed for music producers to automate the search for clean vocal samples. Uses the **discogs.com** API, returning a list of acapellas that satisfy specified search filters. (C++)
+### **GruntWork Pella** - A basic tool designed for music producers to simplify the search for clean vocal samples. Uses the **discogs.com** API, returning a list of acapellas that satisfy specified search filters. (C++)
 ---
 
 ## 📫 **Contact**  
