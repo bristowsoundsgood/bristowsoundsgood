@@ -4,7 +4,7 @@
 ---
 
 ## 📫 **Contact**  
-📧 **Email:** [bristowwsoundsgood@gmail.com](mailto:bristowsoundsgood@gmail.com)  
+📧 **Email:** [bristowsoundsgood@gmail.com](mailto:bristowsoundsgood@gmail.com)  
 
 ---
 
