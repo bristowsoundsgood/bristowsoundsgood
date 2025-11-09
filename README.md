@@ -1,26 +1,9 @@
-## 🛠️ **Ongoing Projects**  
+## **Ongoing Projects**  
 
+### **Iron Whale** - A delay/echo audio FX tool with optional distortion/saturation. My first full-length audio DSP project.
 ### **GruntWork** - A basic tool designed for music producers to simplify the search for clean vocal samples. Uses the **discogs.com** API, returning a list of acapellas that satisfy specified search filters. (C++)
 ---
 
-## 📫 **Contact**  
-📧 **Email:** [bristowsoundsgood@gmail.com](mailto:bristowsoundsgood@gmail.com)  
+## **Contact**  
+**Email:** [bristowsoundsgood@gmail.com](mailto:bristowsoundsgood@gmail.com)  
 
----
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bristowsoundsgood&layout=compact)
-
-**bristowsoundsgood/bristowsoundsgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
