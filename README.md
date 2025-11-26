@@ -5,5 +5,5 @@
 ---
 
 ## **Contact**  
-**Email:** [bristowsoundsgood@gmail.com](mailto:bristowsoundsgood@gmail.com)  
+**Email:** [joesambristow@gmail.com](mailto:joesambristow@gmail.com)  
 
